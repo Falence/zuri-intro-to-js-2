@@ -1,2 +1,2 @@
 # Simple JavaScript Calculator
-[Live link]()
+[Live link](https://falence.github.io/zuri-intro-to-js-2)
